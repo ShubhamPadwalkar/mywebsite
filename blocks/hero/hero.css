@@ -18,6 +18,10 @@ main .hero-container {
   margin-right: auto;
   color: white;
 }
+.hero strong{
+  text-align: center;
+  color :white;
+}
 
 .hero picture {
   position: absolute;
