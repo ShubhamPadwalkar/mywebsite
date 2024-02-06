@@ -21,6 +21,7 @@ main .hero-container {
 .hero strong{
   text-align: center;
   color :white;
+  text-decoration-line: underline;
 }
 
 .hero picture {
