@@ -169,9 +169,13 @@ a.button.secondary, button.secondary {
 }
 
 main img {
-  max-width: 100%;
-  width: auto;
-  height: auto;
+  main img {
+ margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 320px;
+  height: 320px;
+}
 }
 
 .icon {
